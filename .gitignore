@@ -1,0 +1,10 @@
+__pycache__/
+exportToHTML/
+old_files/
+plots/
+results/
+script/
+venv/
+src/.idea/
+src/__pycache__/
+src/old_files/
