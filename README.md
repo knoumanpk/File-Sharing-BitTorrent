@@ -1,5 +1,5 @@
 # Rarest-First with Probabilistic Mode-Suppression
-Official implementation of [Rarest-First with Probabilistic Mode-Suppression]
+Official implementation of [Rarest-First with Probabilistic Mode-Suppression](https://ieeexplore.ieee.org/document/10433895?source=authoralert)
 
 ## Prerequisites
 - Python 3.7
